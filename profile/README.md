@@ -1,4 +1,4 @@
-## Hi there 👋a
+## Hi there 👋
 ### This is the org of the UM ARK, a student-led development association.
 <!--
 
