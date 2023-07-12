@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### This is the org of the UM ARK, a student-led development association.
+### 這裡是ARK開發組的GitHub代碼發佈頁，ARK是一個學生自發的開發組織~
 ### 有任何創意想法或者開發、學習意向的同學！歡迎通過GitHub Issue或Email的方式與我們聯繫！
 <!--
 
